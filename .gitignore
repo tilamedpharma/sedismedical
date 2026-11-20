@@ -1,0 +1,8 @@
+# Fichiers de travail : restent sur le PC, ne partent pas en ligne
+_backup/
+_non-utilises/
+deploiement/
+*.zip
+propositions-produits.html
+Thumbs.db
+desktop.ini
